@@ -8,4 +8,4 @@
 
 # Objective
 
-- From thi project you can perform EDA on the data and even build a UI page where you can list these items using flask, fast api, streamlit, dash, or any other tool of your choice.
+- From this project you can perform EDA on the data and even build a UI page where you can list these items using flask, fast api, streamlit, dash, or any other tool of your choice.
