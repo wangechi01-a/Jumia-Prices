@@ -4,7 +4,14 @@
 
 - Scrape data from Jumia website to create a list of all products currently offered at a discount.
 
-- Tools, Frameworks, and Technologies: Python, Beautiful Soup, Selenium, Pandas, Numpy,matplotlib,seaborn
+- Tools, Frameworks, and Technologies used:
+- Python,
+-  Beautiful Soup,
+-  Selenium,
+-  Pandas,
+-  Numpy,
+-  matplotlib,
+-  seaborn
 
 # Objective
 
