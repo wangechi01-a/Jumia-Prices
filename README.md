@@ -1,6 +1,6 @@
 # Hackathon
 
-# Overview
+# Overview:
 
 Scrape data from Jumia website to create a list of all products currently offered at a discount.
 
