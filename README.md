@@ -1,4 +1,4 @@
-# Hackathon
+# Jumia
 
 # Overview:
 
